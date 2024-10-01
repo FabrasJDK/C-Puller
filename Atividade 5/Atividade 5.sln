@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade 5", "Atividade 5\Atividade 5.csproj", "{65159DA9-4A80-4714-88FB-254B6BE20366}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exemplo 9 - Do While", "..\..\Introdução C#\Exemplo 9 - Do While\Exemplo 9 - Do While.csproj", "{D4D4F0A9-4D30-492F-8690-4ECEFFB3687F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65159DA9-4A80-4714-88FB-254B6BE20366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65159DA9-4A80-4714-88FB-254B6BE20366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65159DA9-4A80-4714-88FB-254B6BE20366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65159DA9-4A80-4714-88FB-254B6BE20366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4D4F0A9-4D30-492F-8690-4ECEFFB3687F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D4F0A9-4D30-492F-8690-4ECEFFB3687F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D4F0A9-4D30-492F-8690-4ECEFFB3687F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D4F0A9-4D30-492F-8690-4ECEFFB3687F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8328ECE1-89DF-4E61-A6AC-8412EB64922D}
+	EndGlobalSection
+EndGlobal

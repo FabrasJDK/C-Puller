@@ -1,0 +1,14 @@
+C:\Users\Fabricio Rocha\Desktop\BackEnd\Atividades 2\Atividade 3\Atividade 3\bin\Debug\net8.0\Atividade 3.exe
+C:\Users\Fabricio Rocha\Desktop\BackEnd\Atividades 2\Atividade 3\Atividade 3\bin\Debug\net8.0\Atividade 3.deps.json
+C:\Users\Fabricio Rocha\Desktop\BackEnd\Atividades 2\Atividade 3\Atividade 3\bin\Debug\net8.0\Atividade 3.runtimeconfig.json
+C:\Users\Fabricio Rocha\Desktop\BackEnd\Atividades 2\Atividade 3\Atividade 3\bin\Debug\net8.0\Atividade 3.dll
+C:\Users\Fabricio Rocha\Desktop\BackEnd\Atividades 2\Atividade 3\Atividade 3\bin\Debug\net8.0\Atividade 3.pdb
+C:\Users\Fabricio Rocha\Desktop\BackEnd\Atividades 2\Atividade 3\Atividade 3\obj\Debug\net8.0\Atividade 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabricio Rocha\Desktop\BackEnd\Atividades 2\Atividade 3\Atividade 3\obj\Debug\net8.0\Atividade 3.AssemblyInfoInputs.cache
+C:\Users\Fabricio Rocha\Desktop\BackEnd\Atividades 2\Atividade 3\Atividade 3\obj\Debug\net8.0\Atividade 3.AssemblyInfo.cs
+C:\Users\Fabricio Rocha\Desktop\BackEnd\Atividades 2\Atividade 3\Atividade 3\obj\Debug\net8.0\Atividade 3.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio Rocha\Desktop\BackEnd\Atividades 2\Atividade 3\Atividade 3\obj\Debug\net8.0\Atividade 3.dll
+C:\Users\Fabricio Rocha\Desktop\BackEnd\Atividades 2\Atividade 3\Atividade 3\obj\Debug\net8.0\refint\Atividade 3.dll
+C:\Users\Fabricio Rocha\Desktop\BackEnd\Atividades 2\Atividade 3\Atividade 3\obj\Debug\net8.0\Atividade 3.pdb
+C:\Users\Fabricio Rocha\Desktop\BackEnd\Atividades 2\Atividade 3\Atividade 3\obj\Debug\net8.0\Atividade 3.genruntimeconfig.cache
+C:\Users\Fabricio Rocha\Desktop\BackEnd\Atividades 2\Atividade 3\Atividade 3\obj\Debug\net8.0\ref\Atividade 3.dll
